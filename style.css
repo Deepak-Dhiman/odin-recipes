@@ -1,0 +1,24 @@
+#home {
+  background-color: #06bcc1;
+  padding-top: 250px;
+}
+
+#home h1,
+#home ul {
+  width: 300px;
+  margin: auto;
+  padding: 50px;
+  border-radius: 5px;
+}
+
+#home h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#home ul {
+  background-color: beige;
+  font-size: 30px;
+  margin-top: 10px;
+}
