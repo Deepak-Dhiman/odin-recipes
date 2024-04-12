@@ -1,3 +1,9 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+/* Home page styles */
+
 #home {
   background-color: #06bcc1;
   padding-top: 250px;
@@ -21,4 +27,34 @@
   background-color: beige;
   font-size: 30px;
   margin-top: 10px;
+}
+
+/* Aloo sandwich styles */
+
+#aloo {
+  background-color: #f3ffb9;
+  padding-left: 30px;
+}
+
+#aloo h1 {
+  text-align: center;
+}
+
+#aloo h3 {
+  padding-top: 30px;
+}
+
+#aloo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#aloo ul,
+ol {
+  background-color: #c42021;
+  padding: 40px;
+  width: 30%;
+  color: white;
+  border-radius: 20px;
 }
